@@ -1,0 +1,117 @@
+/* Enter Your Custom CSS Here */
+.nopp {
+    float: right;
+    margin-bottom: 16px;
+    margin-top: -100px;
+}
+.slider-wrapper-container h1 {
+  text-shadow: 0px 0px 0px !important;
+}
+#commentsbox {
+  display: none;
+}
+#menu .sf-menu li {
+  font-size: 14px;
+}
+
+/* jhetrick css  --------------------------------- */
+.ques_block {
+    color: blue; 
+    background-color: #DFE1E1;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+  }
+
+.home_headings  {
+    color: #dd8c2e;
+    padding-top: 20px;
+  }
+
+.solution_headings  {
+    color: #2e80dd;
+    padding-top: 20px;
+  }
+
+.blockafterques {
+     text-align: center;
+     color: #dd8c2e;
+     font-size: 250%;
+     padding-bottom: 10px;
+}
+
+.pse_solution {
+    color: white; 
+    background-color: #2e80dd;
+    text-align: center;
+    font-size: 250%;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.ques_solution { 
+    font-size: 125%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.meet_block { 
+    font-size: 125%;
+    padding-top: 10px;
+    background-color: #DFE1E1;
+}
+
+.meet_text { 
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.wrap_solution { 
+    font-size: 140%;
+    color: black;
+    text-align: center;
+    font-style: italic;
+}
+
+.wrap_heading  {
+    color: #dd8c2e;
+    text-align: center;
+  }
+
+/* ________  end of jhetrick css  _______________ */
+
+.container_24 .grid_sub_22 {
+    width: 94.5%;
+}
+.page-id-222 .container_24 .grid_sub_16, .page-id-256 .container_24 .grid_sub_16, .page-id-495 .container_24 .grid_sub_16, .page-id-501 .container_24 .grid_sub_16, .page-id-510 .container_24 .grid_sub_16, .page-id-597 .container_24 .grid_sub_16, .page-id-604 .container_24 .grid_sub_16, .page-id-611 .container_24 .grid_sub_16, .page-id-617 .container_24 .grid_sub_16, .page-id-1943 .container_24 .grid_sub_16 {
+  width: 100%;
+}
+.page-id-222 .sidebar, .page-id-256 .sidebar, .page-id-495 .sidebar, .page-id-501 .sidebar, .page-id-510 .sidebar, .page-id-597 .sidebar, .page-id-604 .sidebar, .page-id-611 .sidebar, .page-id-617 .sidebar, .page-id-1943 .sidebar {
+  display: none;
+}
+.custom-underline-text {
+   text-decoration: underline;
+}
+a {
+    color: blue;
+    text-decoration: underline;
+}
+
+.top-search .searchform {
+  border: 1px solid white;
+}
+
+
+@media all and (max-width: 640px) {
+  .nopp {
+    float: left !important;
+    margin-bottom: 16px;
+    margin-top: 0;
+}
+.socialico {
+    float: none !important;
+    margin-top: 11px !important;
+}
+  
